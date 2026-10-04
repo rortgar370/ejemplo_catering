@@ -110,3 +110,4 @@ $neto = $base + $iva;
 
 </body>
 </html>
+<!-- Se coló en el apartado 6 este, dejo este comentario como muestra de cambio -->
