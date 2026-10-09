@@ -12,3 +12,5 @@ Aplicación PHP para gestionar un presupuesto de catering usando sesiones.
 2. Abrir 'imprimir.php' para ver el ejemplo estático.
 3. Abrir 'gestionar.php' para la versión interactiva.
 
+## Trabajo colaborativo - cfergar586
+Repositorio con fork, modificado Readme.md y Pull Request para pedir permiso de modificación
